@@ -1,0 +1,9 @@
+<resources><string-array name="letter_groups"><item>ABCD</item>
+<item>EFGH</item>
+<item>IJKL</item>
+<item>MNOP</item>
+<item>QRST</item>
+<item>UVWX</item>
+<item>YZ</item>
+</string-array>
+</resources>

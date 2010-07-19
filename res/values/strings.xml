@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Morse Trainer</string>
+    <string name="app_name">Morse Trainer</string>
+<string name="button_training">Training</string>
+<string name="button_practice_letters">Practice Letters</string>
+<string name="button_practice_letter_groups">Practice Letter Groups</string>
+<string name="button_practice_words">Practice Words</string>
+<string name="practice_letters">Practice Letters</string>
+<string name="heading_training">Training</string>
+<string name="description_training">Learn the morse code letters.</string>
+<string name="heading_practice_letter_groups">Letter Groups</string>
+<string name="description_practice_letter_groups">Selected groups of letters in random order.</string>
+<string name="heading_practice_words">Words</string>
+<string name="description_practice_words">Hone your skills with commonly-heard words.</string>
+<string name="morse_audio_service_started">Morse Audio service started</string>
+<string name="morse_audio_service_stopped">Morse Audio service stopped</string>
+<string name="morse_audio_service_label">Morse Audio Service</string>
+<string name="morse_audio_service_connected">Morse Audio Service Connected!</string>
+<string name="morse_audio_service_disconnected">Morse Audio Service Disconnected.</string>
+<string name="morse_audio_service_description">Background audio service for Morse Code Trainer.</string>
+</resources>
